@@ -1,0 +1,2 @@
+insert into users (Email_Id, Password, First_Name,Last_Name,User_Type,User_Id) values('roger@gmail.com','wipro@123','Roger','Kutcher','admin',1);
+insert into users (Email_Id, Password, First_Name,Last_Name,User_Type,User_Id) values('steve@gmail.com','wipro@123','Steve','Martin','admin',2);
